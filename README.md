@@ -4,10 +4,12 @@ The purpose of this project is to practice basic concepts of HTML + CSS and crea
 
 When creating this project, the following concepts were put into practice:
 
-Basic HTML tags
-HTML meta tags
-Lists in HTML
-CSS Selectors
+<ul>
+  <li>Basic HTML tags</li>
+  <li>HTML meta tags</li>
+  <li>Lists in HTML</li>
+  <li>CSS Selectors</li>
+</ul>
 
 # Live demo
 
