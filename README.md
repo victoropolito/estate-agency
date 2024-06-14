@@ -11,6 +11,6 @@ CSS Selectors
 
 # Live demo
 
-Link: [text](https://estate-agency-wine.vercel.app/)
+Link: [live-server-vercel](https://estate-agency-wine.vercel.app/)
 
 <img src="/assets/presentation-gif.gif">
